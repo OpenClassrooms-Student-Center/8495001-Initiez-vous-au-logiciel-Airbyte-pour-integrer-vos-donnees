@@ -1,0 +1,29 @@
+Date,Produit,Quantité Vendu,Chiffre d'Affaires,Promotion,Region
+2023-01-01,T-shirt bleu,50,999.50,10% off,Paris
+2023-01-01,Chaussures blanches,30,899.70,15% off,Lyon
+2023-01-01,Sac à dos rouge,40,799.60,No Promo,Marseille
+2023-02-01,Pantalon bleu,60,1199.80,5% off,Bordeaux
+2023-02-01,Pull gris,45,999.55,10% off,Paris
+2023-02-01,Sweat à capuche,35,699.65,No Promo,Lille
+2023-03-01,Jupe en jean,20,419.80,20% off,Toulouse
+2023-03-01,Robe noire,25,1249.75,10% off,Paris
+2023-03-01,Blouson en jean,50,999.50,No Promo,Bordeaux
+2023-04-01,Veste en cuir,15,1199.85,5% off,Lyon
+2023-04-01,Sneakers en toile,30,539.70,15% off,Marseille
+2023-04-01,Short en coton,60,899.40,No Promo,Lille
+2023-05-01,Chapeau de paille,40,399.60,10% off,Toulouse
+2023-05-01,Cardigan,55,1399.75,No Promo,Bordeaux
+2023-06-01,Jeans slim,75,1499.50,20% off,Paris
+2023-06-01,Mocassins en cuir,20,799.80,No Promo,Lyon
+2023-07-01,Pantalon chino,40,799.60,5% off,Marseille
+2023-07-01,Débardeur en coton,90,1079.10,No Promo,Lille
+2023-08-01,Robe d'été,50,1249.50,10% off,Toulouse
+2023-08-01,Chaussettes en laine,80,279.80,No Promo,Paris
+2023-09-01,Sandales en cuir,45,539.55,15% off,Bordeaux
+2023-09-01,Blouson en cuir,25,1999.75,No Promo,Lyon
+2023-10-01,T-shirt rayé,50,999.50,5% off,Marseille
+2023-10-01,Pantalon cargo,40,799.60,10% off,Lille
+2023-11-01,Chaussures de sport,60,1079.80,15% off,Paris
+2023-11-01,Jeans classique,70,1199.90,No Promo,Bordeaux
+2023-12-01,Manteau d'hiver,30,1799.70,20% off,Lyon
+2023-12-01,Sweat en coton,50,799.50,No Promo,Toulouse

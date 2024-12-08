@@ -1,0 +1,102 @@
+[
+  {
+    "retour_id": 1,  // Identifiant unique du retour
+    "customer_id": 101,  // Identifiant du client
+    "order_id": 1001,  // Identifiant de la commande associée
+    "product_name": "T-shirt bleu",  // Nom du produit retourné
+    "return_date": "2024-01-02",  // Date du retour
+    "reason": "Taille incorrecte",  // Raison du retour
+    "refund_amount": 19.99,  // Montant remboursé au client
+    "status": "Remboursé"  // Statut du retour (ex: Remboursé, En attente, etc.)
+  },
+  {
+    "retour_id": 2,
+    "customer_id": 102,
+    "order_id": 1002,
+    "product_name": "Casquette noire",
+    "return_date": "2024-01-03",
+    "reason": "Produit défectueux",
+    "refund_amount": 14.99,
+    "status": "En attente"
+  },
+  {
+    "retour_id": 3,
+    "customer_id": 103,
+    "order_id": 1003,
+    "product_name": "Sac à dos rouge",
+    "return_date": "2024-01-04",
+    "reason": "Erreur de taille",
+    "refund_amount": 39.99,
+    "status": "Remboursé"
+  },
+  {
+    "retour_id": 4,
+    "customer_id": 104,
+    "order_id": 1004,
+    "product_name": "Chaussures blanches",
+    "return_date": "2024-01-05",
+    "reason": "Pas satisfait du produit",
+    "refund_amount": 59.99,
+    "status": "Remboursé"
+  },
+  {
+    "retour_id": 5,
+    "customer_id": 105,
+    "order_id": 1005,
+    "product_name": "Pull gris",
+    "return_date": "2024-01-06",
+    "reason": "Couleur différente de l'image",
+    "refund_amount": 49.99,
+    "status": "En attente"
+  },
+  {
+    "retour_id": 6,
+    "customer_id": 106,
+    "order_id": 1006,
+    "product_name": "Sweat à capuche",
+    "return_date": "2024-01-07",
+    "reason": "Non conforme aux attentes",
+    "refund_amount": 39.99,
+    "status": "Remboursé"
+  },
+  {
+    "retour_id": 7,
+    "customer_id": 107,
+    "order_id": 1007,
+    "product_name": "Pantalon bleu",
+    "return_date": "2024-01-08",
+    "reason": "Erreur de taille",
+    "refund_amount": 34.99,
+    "status": "En attente"
+  },
+  {
+    "retour_id": 8,
+    "customer_id": 108,
+    "order_id": 1008,
+    "product_name": "Jupe en jean",
+    "return_date": "2024-01-09",
+    "reason": "Produit endommagé",
+    "refund_amount": 29.99,
+    "status": "Remboursé"
+  },
+  {
+    "retour_id": 9,
+    "customer_id": 109,
+    "order_id": 1009,
+    "product_name": "Robe noire",
+    "return_date": "2024-01-10",
+    "reason": "Non satisfait de la qualité",
+    "refund_amount": 69.99,
+    "status": "Remboursé"
+  },
+  {
+    "retour_id": 10,
+    "customer_id": 110,
+    "order_id": 1010,
+    "product_name": "Veste en cuir",
+    "return_date": "2024-01-11",
+    "reason": "Produit trop petit",
+    "refund_amount": 89.99,
+    "status": "En attente"
+  }
+]
