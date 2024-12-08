@@ -1,13 +1,13 @@
 [
   {
-    "retour_id": 1,  // Identifiant unique du retour
-    "customer_id": 101,  // Identifiant du client
-    "order_id": 1001,  // Identifiant de la commande associée
-    "product_name": "T-shirt bleu",  // Nom du produit retourné
-    "return_date": "2024-01-02",  // Date du retour
-    "reason": "Taille incorrecte",  // Raison du retour
-    "refund_amount": 19.99,  // Montant remboursé au client
-    "status": "Remboursé"  // Statut du retour (ex: Remboursé, En attente, etc.)
+    "retour_id": 1,
+    "customer_id": 101,
+    "order_id": 1001,
+    "product_name": "T-shirt bleu",
+    "return_date": "2024-01-02",
+    "reason": "Taille incorrecte",
+    "refund_amount": 19.99,
+    "status": "Remboursé"
   },
   {
     "retour_id": 2,
